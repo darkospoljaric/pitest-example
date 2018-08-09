@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import parser.RegexParserTest;
 
 /**
  * Parses a chat line and extracts code snippets. Supports newlines and various combinations
